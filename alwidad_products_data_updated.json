@@ -1,0 +1,121 @@
+[
+  {
+    "name": "1970",
+    "price": "36.75 ر.ع",
+    "description": "من قلب عُمان و من شجرة عُمانية نادرة تتواجد في الجبال بكثرة و هي ” العلعلان ”. شجرة دائمة الخضرة عطرية الرائحة. الحجم 50ml",
+    "image": "/home/ubuntu/alwidad_store/src/static/images/products/1970_perfume.png",
+    "category": "العطور"
+  },
+  {
+    "name": "ALTON",
+    "price": "18.38 ر.ع",
+    "description": "عطر ألتون يعتبر من أكثر العطور الجلدية تميزًا و فوحاناً و يتكون من رائحة الجلود الممزوجة برائحة الأخشاب و المسك في قلب العطر لينتهي العطر بتركيز اللبان العُماني الفاخر 50ml",
+    "image": "/home/ubuntu/alwidad_store/src/static/images/products/ALTON_perfume.png",
+    "category": "العطور"
+  },
+  {
+    "name": "CHIC",
+    "price": "18.90 ر.ع",
+    "description": "",
+    "image": "/home/ubuntu/alwidad_store/src/static/images/products/CHIC_perfume.png",
+    "category": "العطور"
+  },
+  {
+    "name": "FICTION",
+    "price": "18.90 ر.ع",
+    "description": "",
+    "image": "/home/ubuntu/alwidad_store/src/static/images/products/FICTION_perfume.png",
+    "category": "العطور"
+  },
+  {
+    "name": "HERITAGE",
+    "price": "26.25 ر.ع",
+    "description": "عطر HERITAGE عطر تاريخي يرمز للعراقة و الأصالة مقدمة العطر التوت الممزوج بالفانيلا ،ويتوسط العطر الأزهار البيضاء مع خشب العود، أما نهاية العطر تتكون من دهن العود الذي يرمز لأصالة العطور الشرقية. الحجم : ٥٠ مل",
+    "image": "/home/ubuntu/alwidad_store/src/static/images/products/HERITAGE_perfume.jpeg",
+    "category": "العطور"
+  },
+  {
+    "name": "LUBAN LUNE",
+    "price": "57.75 ر.ع",
+    "description": "مزيج فاخر من أخشاب العود و الكرز الممزوج باللبان العماني الفاخر",
+    "image": "/home/ubuntu/alwidad_store/src/static/images/products/LUBAN_LUNE_perfume.jpeg",
+    "category": "العطور"
+  },
+  {
+    "name": "Luban sandal",
+    "price": "52.50 ر.ع",
+    "description": "",
+    "image": "/home/ubuntu/alwidad_store/src/static/images/products/Luban_sandal_perfume.jpeg",
+    "category": "العطور"
+  },
+  {
+    "name": "LUBAN STORM",
+    "price": "36.75 ر.ع",
+    "description": "A mixture of leather and amber with notes of sandalwood and luxurious Omani frankincense.",
+    "image": "/home/ubuntu/alwidad_store/src/static/images/products/LUBAN_STORM_perfume.png",
+    "category": "العطور"
+  },
+  {
+    "name": "OUD II",
+    "price": "315.00 ر.ع",
+    "description": "العود الصافي الممزوج مع الكرز الطبيعي ليأتيكم بطابع فخم و مميز 30ML",
+    "image": "/home/ubuntu/alwidad_store/src/static/images/products/OUD_II_perfume_p2.jpeg",
+    "category": "العطور"
+  },
+  {
+    "name": "القصر 2",
+    "price": "189.00 ر.ع",
+    "description": "اللذر الطبيعي الممزوج مع دهن العود الفاخر 30ML",
+    "image": "/home/ubuntu/alwidad_store/src/static/images/products/Alqasr_2_perfume.png",
+    "category": "العطور"
+  },
+  {
+    "name": "خشب لبان",
+    "price": "52.50 ر.ع",
+    "description": "يأتيكم العطر بخليط من اللبان العُماني الفاخر الممزوج برائحة أخشاب العود",
+    "image": "/home/ubuntu/alwidad_store/src/static/images/products/Khashab_Luban_perfume.png",
+    "category": "العطور"
+  },
+  {
+    "name": "جستس",
+    "price": "15.75 ر.ع",
+    "description": "من العطور المنعشة و مقدمة العطر عبارة عن رائحة الزعفران و وسط العطر زهرة الياسمين و قاعدة العطر المسك الطبيعي",
+    "image": "/home/ubuntu/alwidad_store/src/static/images/products/Justice_perfume.jpeg",
+    "category": "العطور"
+  },
+  {
+    "name": "جوهرة السلام",
+    "price": "26.25 ر.ع",
+    "description": "مقدمة العطر: البرغموت\nقلب العطر :اللذر و جذور السوسن و  الفل\nقاعدة العطر : المسك و خشب الصندل و الفانيليا و العنبر و اللبان العماني",
+    "image": "/home/ubuntu/alwidad_store/src/static/images/products/Jawharat_Alsalam_perfume.jpeg",
+    "category": "العطور"
+  },
+  {
+    "name": "جينوفا",
+    "price": "18.38 ر.ع",
+    "description": "مزيج جذاب من المكونات النقية فمقدمة العطر من رحيق أزهار السوسن يتعقبه عبير الياسمين الذي يبرز جمال الورد الإيطالي في قلب العطر لينتهي بتركيز نفحات اللبان العُماني الفاخر",
+    "image": "/home/ubuntu/alwidad_store/src/static/images/products/Genova_perfume.jpeg",
+    "category": "العطور"
+  },
+  {
+    "name": "عطر الشعر LUBAN CARDAMOM",
+    "price": "13.13 ر.ع",
+    "description": "يأتيكم هذا العطر بتركيبة فريدة من نوعها حيث يتكون من رائحة الهيل الممزوج باللبان العُماني الفاخر",
+    "image": "/home/ubuntu/alwidad_store/src/static/images/products/hair_mist_luban_cardamom.png",
+    "category": "معطرات الشعر"
+  },
+  {
+    "name": "عطر الشعر LUBAN LAVENDER",
+    "price": "13.13 ر.ع",
+    "description": "",
+    "image": "/home/ubuntu/alwidad_store/src/static/images/products/hair_mist_luban_lavender.png",
+    "category": "معطرات الشعر"
+  },
+  {
+    "name": "عطر الشعر LUBAN Novel",
+    "price": "13.13 ر.ع",
+    "description": "",
+    "image": "/home/ubuntu/alwidad_store/src/static/images/products/hair_mist_luban_novel.png",
+    "category": "معطرات الشعر"
+  }
+]
